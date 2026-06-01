@@ -18,15 +18,15 @@ Para comprobar la funcionalidad de este algoritmo directamente en tu entorno, si
 
 1. **Clona este repositorio en tu equipo local:**
    ```bash
-   git clone [https://github.com/xsuik33/Funcionamiento-del-BigInt](https://github.com/xsuik33/Funcionamiento-del-BigInt/tree/main)
+   git clone https://github.com/xsuik33/Funcionamiento-del-BigInt.git
    ```
 2. **Ve al Directorio del proyecto**
    ```bash
-   cd https://github.com/xsuik33/Funcionamiento-del-BigInt/tree/main
+   cd Funcionamiento-del-BigInt
    ```
 3. **Ejecuta el Script utilizando Node.js**
   ```bash
-  nano code_BigInt.js
+  node code_BigInt.js
   ```
 ### Como ejecutarlo en el navegador
 
