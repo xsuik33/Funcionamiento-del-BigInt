@@ -18,4 +18,13 @@ Para comprobar la funcionalidad de este algoritmo directamente en tu entorno, si
 
 1. **Clona este repositorio en tu equipo local:**
    ```bash
-   git clone https://github.com/xsuik33/Funcionamiento-del-BigInt
+   git clone [https://github.com/xsuik33/Funcionamiento-del-BigInt](https://github.com/xsuik33/Funcionamiento-del-BigInt/tree/main)
+   ```
+2. **Ve al Directorio del proyecto**
+   ```bash
+   cd https://github.com/xsuik33/Funcionamiento-del-BigInt/tree/main
+   ```
+3. **Ejecuta el Script utilizando Node.js**
+  ```bash
+  nano code_BigInt.js
+  ```
