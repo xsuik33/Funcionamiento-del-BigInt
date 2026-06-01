@@ -10,9 +10,9 @@ Para validar rigurosamente la metodología en el ecosistema asíncrono, se estab
 2. **Huella de Memoria (Memory Footprint):** La asignación dinámica para instanciar la variable `BigInt` y ensamblar la cadena temporal en la memoria RAM generó un consumo máximo de **1.8 KB**.
 3. **Tasa de Éxito Sintáctico:** El algoritmo demostró una precisión de ensamblaje del **100%**. La lógica de validación de paridad (alineación de bytes) previene eficazmente la corrupción de la llave.
 
-## 🚀 Cómo ejecutar la prueba
+##🚀 Cómo ejecutar la prueba
 
-## 🚀 Cómo ejecutar la prueba localmente
+### Como ejecutarlo localmente
 
 Para comprobar la funcionalidad de este algoritmo directamente en tu entorno, sigue estos pasos desde la terminal:
 
@@ -28,3 +28,10 @@ Para comprobar la funcionalidad de este algoritmo directamente en tu entorno, si
   ```bash
   nano code_BigInt.js
   ```
+### Como ejecutarlo en el navegador
+
+Para comprobar la funcionalidad del algoritmo desde el navegador, siga estos pasos:
+
+1. **Copia el codigo**
+2. **Abre la consola de de herramientas de desarrollo *(DevTools)* de tu navegador**
+3. **Pega el codigo e ejecutalo**
