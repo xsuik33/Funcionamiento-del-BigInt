@@ -1,8 +1,8 @@
-# Evaluación de Ofuscación Matemática (BigInt) 🛡️
+# Evaluación de Ofuscación Matemática (BigInt) 
 
 Este repositorio contiene la prueba de concepto funcional del algoritmo de ofuscación matemática implementado en el frontend de **BiblioTech**, diseñado para evadir el escaneo estático de credenciales BaaS (Supabase).
 
-## 📊 Evaluación y Métricas de Rendimiento
+## Evaluación y Métricas de Rendimiento
 
 Para validar rigurosamente la metodología en el ecosistema asíncrono, se estableció un entorno de pruebas utilizando el motor V8 de JavaScript.
 
@@ -10,7 +10,7 @@ Para validar rigurosamente la metodología en el ecosistema asíncrono, se estab
 2. **Huella de Memoria (Memory Footprint):** La asignación dinámica para instanciar la variable `BigInt` y ensamblar la cadena temporal en la memoria RAM generó un consumo máximo de **1.8 KB**.
 3. **Tasa de Éxito Sintáctico:** El algoritmo demostró una precisión de ensamblaje del **100%**. La lógica de validación de paridad (alineación de bytes) previene eficazmente la corrupción de la llave.
 
-##🚀 Cómo ejecutar la prueba
+## Cómo ejecutar la prueba
 
 ### Como ejecutarlo localmente
 
